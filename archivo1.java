@@ -6,6 +6,7 @@ public class Coche{
     private int numeroPuertas; 
     private int numeroRuedasRepuesto; 
     private int matricula; 
+    private String papeles;
 
 
 }
